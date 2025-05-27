@@ -20,9 +20,9 @@ I'm a **Blockchain Developer, Researcher, and Innovator**, passionate about arch
 
 **Programming Languages & Smart Contracts:**
 * `Solidity`
-* `Rust` (for chains like Solana, Polkadot, etc.)
-* `Go` (for Hyperledger Fabric, Cosmos SDK, etc.)
-* `JavaScript / TypeScript` (for DApp frontends, Hardhat/Truffle scripting)
+* `Rust` (for chains like Solana.)
+* `Go` (for Hyperledger Fabric, Ethereum etc.)
+* `JavaScript / TypeScript` (for DApp frontends, Truffle scripting)
 * `Python` (for scripting, testing, data analysis)
 
 **Blockchain Platforms & Technologies:**
@@ -39,10 +39,9 @@ I'm a **Blockchain Developer, Researcher, and Innovator**, passionate about arch
 * `Tokenomics & Protocol Design`
 
 **Tools & Frameworks:**
-* `Hardhat` / `Truffle` / `Foundry`
+* `Truffle` / `Foundry`
 * `Remix IDE` / `VS Code` (with blockchain extensions)
 * `ethers.js` / `web3.js` / `web3.py`
-* `IPFS` / `Filecoin` / `Arweave` (for decentralized storage)
 * `Docker` / `Kubernetes` (for node deployment & infrastructure)
 * `The Graph` (for indexing blockchain data)
 * `Git` & `GitHub Actions` (for CI/CD)
